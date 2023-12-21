@@ -20,7 +20,7 @@ Welcome to my Professional Portfolio & Resume repository! 🚀 This space showca
    -  Machine learning model to predict the flight ticket price based on various features such as source, destination, number of stops, departure time, arrival time, etc.
 
 5. **[Railway Management System](https://github.com/Parzevl24/railway-management-system)**
-   - Short project description goes here.
+   -  A basic Railway Management website with authentication and role-based access. Admins have tailored access to data, ensuring efficient and user-specific functionalities
 
 <!--For a complete list of projects, visit my [portfolio](insert_link_to_portfolio).-->
 
