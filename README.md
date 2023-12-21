@@ -1,6 +1,6 @@
-# Professional Portfolio & Resume
+# Resume
 
-Welcome to my Professional Portfolio & Resume repository! 🚀 This space showcases my journey, skills, and featured projects.
+Welcome to my Resume repository! 🚀 This space showcases my journey, skills, and featured projects.
 
 ## 📄 [View Resume](Resume.pdf)
 
