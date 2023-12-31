@@ -22,7 +22,7 @@ Welcome to my Resume repository! 🚀 This space showcases my journey, skills, a
 5. **[Railway Management System](https://github.com/Parzevl24/railway-management-system)**
    -  A basic Railway Management website with authentication and role-based access. Admins have tailored access to data, ensuring efficient and user-specific functionalities
 
-<!--For a complete list of projects, visit my [portfolio](insert_link_to_portfolio).-->
+<!--For a complete list of projects, visit my [portfolio](link).-->
 
 ## 🌐 Links to My Work
 
@@ -30,16 +30,17 @@ Welcome to my Resume repository! 🚀 This space showcases my journey, skills, a
 - [GitHub Profile](https://github.com/prodigyhades)
 - [Personal Website](https://prodigyhades.github.io/portfolio.github.io/)
 
+---
 
 ## 📬 Contact Me
 
 Let's connect! Feel free to reach out:
 
 - **Email:** hnvenky4@gmail.com
-- **Twitter:** [@\_gimmick\_\_](https://twitter.com/PatnaikVenktesh)
+- **Twitter:** [@\_gimmick\_\_](https://twitter.com/_gimmick__)
 
 Looking forward to exciting collaborations! 🚀
 
----
+
 
 
